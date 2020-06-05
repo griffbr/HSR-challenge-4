@@ -1,4 +1,4 @@
-# HSR-challenge-4
+# HSR-challenge-4 (mobile manipulation)
 University of Michigan code used for the fourth HSR Challenge on 190415.
 
 Contact: Brent Griffin (griffb at umich dot edu)
