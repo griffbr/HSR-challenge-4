@@ -11,9 +11,9 @@ In background, need to run: <br />
 
 Need to have tensorflow sourced to run the challenge script: ``./c4.py``.
 
-__Video Demonstration:__ https://youtu.be/NEW5vDGAZdU
+__Video Demonstration:__ https://youtu.be/s7mWZ_JUWlQ
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NEW5vDGAZdU/0.jpg)](https://www.youtube.com/watch?v=NEW5vDGAZdU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s7mWZ_JUWlQ/0.jpg)](https://www.youtube.com/watch?v=s7mWZ_JUWlQ)
 
 ## Setup
 The necessary segmentation models (e.g., "r.ckpt") are trained using ``train_osvos_models.py`` at https://github.com/griffbr/VOSVS/tree/master/OSVOS_train. Code is setup for Toyota's Human Support Robot (HSR) using ROS messages, but should be reconfigurable for other robot platforms. Will also need to set up an Amazon Echo or equivalent to convert voice commands to ROS messages.
